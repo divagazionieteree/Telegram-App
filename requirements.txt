@@ -1,0 +1,16 @@
+# QR Code Generator
+qrcode[pil]==7.4.2
+Pillow>=10.0.0
+
+# Investimenti - Data Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Investimenti - Grafici e Visualizzazione (solo matplotlib, niente Plotly/Kaleido)
+matplotlib>=3.7.0
+
+# Investimenti - Dati di mercato
+yahooquery>=2.3.0
+
+# Nota: Questa versione è per uso da terminale su PC
+# Per la versione Telegram Bot su Zimaboard, vedere telegram_bot_zimaboard/requirements.txt

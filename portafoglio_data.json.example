@@ -1,0 +1,295 @@
+{
+  "nomi_titoli": [
+    {
+      "nome": "Amundi MSCI World UCITS ETF Acc",
+      "ISIN": "IE000BI8OT95.SG",
+      "TICKER": "MWRD.MI",
+      "TER": 0.12,
+      "ritenuta_fiscale": 0.26,
+      "link": "https://www.justetf.com/it/etf-profile.html?isin=IE000BI8OT95",
+      "distribuzione_geografica": [
+        {"nazione": "Stati Uniti", "percentuale": 68.40},
+        {"nazione": "Giappone", "percentuale": 5.40},
+        {"nazione": "Regno Unito", "percentuale": 3.52},
+        {"nazione": "Canada", "percentuale": 2.89},
+        {"nazione": "Germania", "percentuale": 2.55},
+        {"nazione": "Francia", "percentuale": 2.49},
+        {"nazione": "Australia", "percentuale": 1.70},
+        {"nazione": "Paesi Bassi", "percentuale": 1.41},
+        {"nazione": "Irlanda", "percentuale": 1.37},   
+        {"nazione": "Altri", "percentuale": 7.69}
+      ],
+      "tipologia_mercato": [
+        {"tipo": "Informatica", "percentuale": 27.95},
+        {"tipo": "Finanza", "percentuale": 14.63},
+        {"tipo": "Industria", "percentuale": 10.40},
+        {"tipo": "Beni voluttuari", "percentuale": 10.25},
+        {"tipo": "Salute", "percentuale": 8.92},
+        {"tipo": "Telecomunicazioni", "percentuale": 8.23},
+        {"tipo": "Beni di prima necessità", "percentuale": 5.81},
+        {"tipo": "Energia", "percentuale": 3.54},
+        {"tipo": "Materie prime", "percentuale": 2.72},
+        {"tipo": "Servizi di pubblica utilità", "percentuale": 2.63},
+        {"tipo": "Immobiliare", "percentuale": 1.96},
+        {"tipo": "Altri", "percentuale": 2.97}
+      ]
+    },
+    {
+      "nome": "Amundi Euro Government Bond 3-5Y UCITS ETF Acc",
+      "ISIN": "LU1650488494",
+      "TICKER": "EM35.MI",
+      "TER": 0.15,
+      "ritenuta_fiscale": 0.26,
+      "link": "https://www.justetf.com/it/etf-profile.html?isin=LU1650488494",
+      "distribuzione_geografica": [
+        {"nazione": "Francia", "percentuale": 23.64},
+        {"nazione": "Italia", "percentuale": 15.45},
+        {"nazione": "Germania", "percentuale": 15.20},
+        {"nazione": "Spagna", "percentuale": 13.58},
+        {"nazione": "Austria", "percentuale": 5.05},
+        {"nazione": "Paesi Bassi", "percentuale": 3.94},
+        {"nazione": "Belgio", "percentuale": 3.68},
+        {"nazione": "Portogallo", "percentuale": 3.18},
+        {"nazione": "Irlanda", "percentuale": 1.50},
+        {"nazione": "Altri", "percentuale": 14.78}
+      ],
+      "tipologia_mercato": [
+        {"tipo": "Bond", "percentuale": 100.0}
+      ]
+    },
+    {
+      "nome": "Xtrackers MSCI World ex USA UCITS ETF 1C",
+      "ISIN": "IE0006WW1TQ4",
+      "TICKER": "EXUS.MI",
+      "TER": 0.15,
+      "ritenuta_fiscale": 0.26,
+      "link": "https://www.justetf.com/it/etf-profile.html?isin=IE0006WW1TQ4",
+      "distribuzione_geografica": [
+        {"nazione": "Giappone", "percentuale": 19.19},
+        {"nazione": "Regno Unito", "percentuale": 12.14},
+        {"nazione": "Francia", "percentuale": 9.81},
+        {"nazione": "Germania", "percentuale": 9.14},
+        {"nazione": "Svizzera", "percentuale": 8.29},
+        {"nazione": "Australia", "percentuale": 5.92},
+        {"nazione": "Paesi Bassi", "percentuale": 4.74},
+        {"nazione": "Spagna", "percentuale": 2.72},
+        {"nazione": "Italia", "percentuale": 2.64},
+        {"nazione": "Svezia", "percentuale": 2.59},
+        {"nazione": "Honk Hong", "percentuale": 1.74},
+        {"nazione": "Singapore", "percentuale": 1.24},
+        {"nazione": "Altri", "percentuale": 10.83}
+      ],
+      "tipologia_mercato": [
+        {"tipo": "Informatica", "percentuale": 9.28},
+        {"tipo": "Finanza", "percentuale": 24.11},
+        {"tipo": "Industria", "percentuale": 16.81},
+        {"tipo": "Beni voluttuari", "percentuale": 9.29},
+        {"tipo": "Salute", "percentuale": 8.01},
+        {"tipo": "Telecomunicazioni", "percentuale": 4.67},
+        {"tipo": "Beni di prima necessità", "percentuale": 7.40},
+        {"tipo": "Energia", "percentuale": 4.72},
+        {"tipo": "Materie prime", "percentuale": 5.69},
+        {"tipo": "Servizi di pubblica utilità", "percentuale": 3.45},
+        {"tipo": "Immobiliare", "percentuale": 1.69},
+        {"tipo": "Altri", "percentuale": 4.89}
+      ]
+    },
+    {
+      "nome": "Amundi Physical Gold ETC (C)",
+      "ISIN": "FR0013416716",
+      "TICKER": "GOLD.MI",
+      "TER": 0.12,
+      "ritenuta_fiscale": 0.26,
+      "link": "https://www.justetf.com/it/etf-profile.html?isin=FR0013416716",
+      "distribuzione_geografica": [
+        {"nazione": "Oro", "percentuale": 100.0}
+      ],
+      "tipologia_mercato": [
+        {"tipo": "Oro", "percentuale": 100.0}
+      ]
+    },
+    {
+      "nome": "Amundi Stoxx Europe 600 UCITS ETF Acc",
+      "ISIN": "LU0908500753",
+      "TICKER": "MEUD.MI",
+      "TER": 0.03,
+      "ritenuta_fiscale": 0.26,
+      "link": "https://www.justetf.com/it/etf-profile.html?isin=LU0908500753",
+      "distribuzione_geografica": [
+        {"nazione": "Regno Unito", "percentuale": 21.32},
+        {"nazione": "Germania", "percentuale": 14.78},
+        {"nazione": "Francia", "percentuale": 14.10},
+        {"nazione": "Svizzera", "percentuale": 13.77},
+        {"nazione": "Paesi Bassi", "percentuale": 7.72},
+        {"nazione": "Italia", "percentuale": 4.64},
+        {"nazione": "Spagna", "percentuale": 4.55},
+        {"nazione": "Svezia", "percentuale": 4.40},
+        {"nazione": "Danimarca", "percentuale": 1.81},
+        {"nazione": "Finlandia", "percentuale": 1.49},
+        {"nazione": "Belgio", "percentuale": 1.36},
+        {"nazione": "Irlanda", "percentuale": 1.09},
+        {"nazione": "Altri", "percentuale": 8.97}
+      ],
+      "tipologia_mercato": [
+        {"tipo": "Informatica", "percentuale": 8.06},
+        {"tipo": "Finanza", "percentuale": 21.97},
+        {"tipo": "Industria", "percentuale": 18.47},
+        {"tipo": "Beni voluttuari", "percentuale": 8.39},
+        {"tipo": "Salute", "percentuale": 10.06},
+        {"tipo": "Telecomunicazioni", "percentuale": 3.51},
+        {"tipo": "Beni di prima necessità", "percentuale": 9.09},
+        {"tipo": "Energia", "percentuale": 4.44},
+        {"tipo": "Materie prime", "percentuale": 4.09},
+        {"tipo": "Servizi di pubblica utilità", "percentuale": 4.22},
+        {"tipo": "Immobiliare", "percentuale": 1.32},
+        {"tipo": "Altri", "percentuale": 6.39}
+      ]
+    },
+    {
+      "nome": "iShares Core MSCI Emerging Markets IMI UCITS ETF (Acc)",
+      "ISIN": "IE00BKM4GZ66",
+      "TICKER": "EIMI.MI",
+      "TER": 0.18,
+      "ritenuta_fiscale": 0.26,
+      "link": "https://www.justetf.com/it/etf-profile.html?isin=IE00BKM4GZ66",
+      "distribuzione_geografica": [
+        {"nazione": "Cina", "percentuale": 23.44},
+        {"nazione": "Taiwan", "percentuale": 18.49},
+        {"nazione": "India", "percentuale": 17.18},
+        {"nazione": "Corea del Sud", "percentuale": 10.96},
+        {"nazione": "Brasile", "percentuale": 4.16},
+        {"nazione": "Arabia Saudita", "percentuale": 3.37},
+        {"nazione": "Sud Africa", "percentuale": 2.49},
+        {"nazione": "Messico", "percentuale": 1.72},
+        {"nazione": "Malesia", "percentuale": 1.44},
+        {"nazione": "Emirati Arabi", "percentuale": 1.36},
+        {"nazione": "Honk Hong", "percentuale": 1.34},
+        {"nazione": "Indonesia", "percentuale": 1.20},
+        {"nazione": "Polonia", "percentuale": 1.13},
+        {"nazione": "Tailandia", "percentuale": 1.03},
+        {"nazione": "Altri", "percentuale": 10.69}
+      ],
+      "tipologia_mercato": [
+        {"tipo": "Informatica", "percentuale": 22.59},
+        {"tipo": "Finanza", "percentuale": 21.35},
+        {"tipo": "Industria", "percentuale": 7.69},
+        {"tipo": "Beni voluttuari", "percentuale": 11.52},
+        {"tipo": "Salute", "percentuale": 3.74},
+        {"tipo": "Telecomunicazioni", "percentuale": 8.46},
+        {"tipo": "Beni di prima necessità", "percentuale": 4.24},
+        {"tipo": "Energia", "percentuale": 3.82},
+        {"tipo": "Materie prime", "percentuale": 6.13},
+        {"tipo": "Servizi di pubblica utilità", "percentuale": 2.57},
+        {"tipo": "Immobiliare", "percentuale": 2.11},
+        {"tipo": "Altri", "percentuale": 5.78}
+      ]
+    }
+  ],
+  "operazioni": [
+    {
+      "data": "2024-01-15",
+      "quote": 50,
+      "operazione": "acquisto",
+      "titolo": "MWRD.MI",
+      "importo_scambiato": 6650.00
+    },
+    {
+      "data": "2024-02-10",
+      "quote": 20,
+      "operazione": "acquisto",
+      "titolo": "EM35.MI",
+      "importo_scambiato": 2980.00
+    },
+    {
+      "data": "2024-03-05",
+      "quote": 35,
+      "operazione": "acquisto",
+      "titolo": "EXUS.MI",
+      "importo_scambiato": 3185.00
+    },
+    {
+      "data": "2024-04-12",
+      "quote": 15,
+      "operazione": "acquisto",
+      "titolo": "GOLD.MI",
+      "importo_scambiato": 3150.00
+    },
+    {
+      "data": "2024-05-20",
+      "quote": 12,
+      "operazione": "acquisto",
+      "titolo": "MEUD.MI",
+      "importo_scambiato": 2988.00
+    },
+    {
+      "data": "2024-06-15",
+      "quote": 40,
+      "operazione": "acquisto",
+      "titolo": "MWRD.MI",
+      "importo_scambiato": 5320.00
+    },
+    {
+      "data": "2024-07-10",
+      "quote": 25,
+      "operazione": "acquisto",
+      "titolo": "EIMI.MI",
+      "importo_scambiato": 3250.00
+    },
+    {
+      "data": "2024-08-05",
+      "quote": 18,
+      "operazione": "acquisto",
+      "titolo": "EXUS.MI",
+      "importo_scambiato": 3294.00
+    },
+    {
+      "data": "2024-09-20",
+      "quote": 30,
+      "operazione": "acquisto",
+      "titolo": "MWRD.MI",
+      "importo_scambiato": 3990.00
+    },
+    {
+      "data": "2024-10-15",
+      "quote": 15,
+      "operazione": "acquisto",
+      "titolo": "GOLD.MI",
+      "importo_scambiato": 3150.00
+    },
+    {
+      "data": "2024-11-10",
+      "quote": 22,
+      "operazione": "acquisto",
+      "titolo": "EM35.MI",
+      "importo_scambiato": 3278.00
+    },
+    {
+      "data": "2024-12-05",
+      "quote": 10,
+      "operazione": "acquisto",
+      "titolo": "MEUD.MI",
+      "importo_scambiato": 2490.00
+    },
+    {
+      "data": "2025-01-08",
+      "quote": 45,
+      "operazione": "acquisto",
+      "titolo": "MWRD.MI",
+      "importo_scambiato": 5985.00
+    },
+    {
+      "data": "2025-01-20",
+      "quote": 30,
+      "operazione": "acquisto",
+      "titolo": "EIMI.MI",
+      "importo_scambiato": 3900.00
+    },
+    {
+      "data": "2025-02-15",
+      "quote": 20,
+      "operazione": "acquisto",
+      "titolo": "EXUS.MI",
+      "importo_scambiato": 3180.00
+    }
+  ]
+}
